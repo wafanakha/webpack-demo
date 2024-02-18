@@ -12,7 +12,7 @@ module.exports = {
       template: "./src/template.html",
     }),
   ],
-  modules: {
+  module: {
     rules: [
       {
         test: /\.css$/i,
